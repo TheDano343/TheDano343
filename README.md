@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedano343&label=Profile%20views&color=0e75b6&style=flat" alt="thedano343" /> </p>
 
+- 🔭 I’m currently working on [Ecommerce Leviathaner Pc´s](https://bitbucket.org/thedano/ecommerce-leviathaner-pcs/src/master/)
+
 - 🌱 I’m currently learning **Livewire,Javascript,Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://thedano343.github.io/portafolio/](https://thedano343.github.io/portafolio/)
