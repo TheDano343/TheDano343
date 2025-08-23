@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Laravel,PHP**
 
-- 📄 Know about my experiences [www.linkedin.com/in/daniel-curiel-0745721b0](www.linkedin.com/in/daniel-curiel-0745721b0)
+- 📄 Know about my experiences [https://www.linkedin.com/in/daniel-curiel-0745721b0/](https://www.linkedin.com/in/daniel-curiel-0745721b0/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
