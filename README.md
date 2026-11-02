@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Saúl Curiel Hernández</h1>
-<h3 align="center">I am a Backend developer, with highly knoledge in the framework laravel and enthusiastic in the world of the technology</h3>
+<h3 align="center">I am a Backend developer, with highly knowledge in the framework laravel and enthusiastic in the world of the technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedano343&label=Profile%20views&color=0e75b6&style=flat" alt="thedano343" /> </p>
 
